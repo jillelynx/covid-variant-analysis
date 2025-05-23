@@ -23,6 +23,8 @@ This project analyzes COVID-19 variant data using Python.  It demonstrates data 
 c
 
 ## Next Steps
- -Load real GISAID or NCBI variant data
- -Compare mutation trends across regions
- -Add interactive visualization with Plotly or Dash
+-Load real GISAID or NCBI variant data
+
+-Compare mutation trends across regions
+
+-Add interactive visualization with Plotly or Dash
