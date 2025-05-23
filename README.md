@@ -19,7 +19,8 @@ This project analyzes COVID-19 variant data using Python.  It demonstrates data 
  python variant_analysis.py
 
 ## Example Output
-_Add screenshot of graph later
+![COVID Variant Graph](graph_screenshot.png)
+c
 
 ## Next Steps
  -Load real GISAID or NCBI variant data
